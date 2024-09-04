@@ -33,7 +33,7 @@ Me apasiona la fotografía, un hobby que complementa mis habilidades técnicas y
 - **Fotografía:** Enfoque en la composición y captura de momentos.
 
 ## Actualmente
-Estoy estudiando programación en [42 Madrid](https://www.42madrid.com),una escuela gratuita basada en el aprendizaje colaborativo. 
+Estoy estudiando programación en [42 Madrid](https://www.42madrid.com), una escuela gratuita basada en el aprendizaje colaborativo. 
 
 ## Contacto
 Estoy abierto a conectar y colaborar. ¡Explora mis repositorios y hablemos!
