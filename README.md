@@ -42,21 +42,21 @@ I'm always open to connecting with fellow professionals and enthusiasts in the f
 ## Antecedentes profesionales
 A lo largo de mi carrera, he tenido la oportunidad de trabajar con una amplia gama de sistemas electrónicos y mecánicos. Mi trabajo implica principalmente:
 
-**-Reparación y mantenimiento de maquinaria bancaria:** Amplia experiencia en la resolución de problemas y reparación de sistemas complejos, asegurando que funcionen al máximo rendimiento.
+- **Reparación y mantenimiento de maquinaria bancaria:** Amplia experiencia en la resolución de problemas y reparación de sistemas complejos, asegurando que funcionen al máximo rendimiento.
 
-**-Sistemas de cajeros automáticos y recicladores:** Conocimiento profundo de los mecanismos de los cajeros automáticos, incluidos tanto el hardware (PCB) como los componentes mecánicos.
+- **Sistemas de cajeros automáticos y recicladores:** Conocimiento profundo de los mecanismos de los cajeros automáticos, incluidos tanto el hardware (PCB) como los componentes mecánicos.
 
-**-Mantenimiento de sistemas minoristas:** Experiencia práctica en el mantenimiento y la reparación de sistemas de reciclaje utilizados en entornos minoristas.
+- **Mantenimiento de sistemas minoristas:** Experiencia práctica en el mantenimiento y la reparación de sistemas de reciclaje utilizados en entornos minoristas.
 
 ## Intereses personales
 Fuera del trabajo, tengo una gran pasión por la fotografía. Capturar momentos y crear historias visuales a través de la lente es algo que disfruto profundamente. Es una salida creativa que complementa mis habilidades técnicas y mi atención al detalle.
 
 ## Habilidades y conocimientos
-**-Reparación de dispositivos electrónicos:** Competente en el diagnóstico y reparación de PCB y componentes mecánicos.
+- **Reparación de dispositivos electrónicos:** Competente en el diagnóstico y reparación de PCB y componentes mecánicos.
 
-**-Programación:** Poseo conocimientos básicos de programación y siempre estoy ansioso por aprender más. Disfruto explorando cómo interactúa el software con los sistemas de hardware.
+- **Programación:** Poseo conocimientos básicos de programación y siempre estoy ansioso por aprender más. Disfruto explorando cómo interactúa el software con los sistemas de hardware.
 
-**-Fotografía:** Como entusiasta, tengo un buen ojo para la composición, la iluminación y la captura de la esencia del momento.
+- **Fotografía:** Como entusiasta, tengo un buen ojo para la composición, la iluminación y la captura de la esencia del momento.
 
 ## Actividades actuales
 Actualmente estoy ampliando mis conocimientos en programación y tecnología estudiando en 42 Madrid, una escuela de codificación de vanguardia que se centra en el aprendizaje entre pares y la educación basada en proyectos. Este viaje me está ayudando a cerrar aún más la brecha entre mi experiencia en hardware y mis habilidades de desarrollo de software.
