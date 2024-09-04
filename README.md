@@ -1,6 +1,6 @@
  # Welcome to My GitHub Profile!
 
-## About Me & Professional Experience
+## About Me
 I'm Francisco, with over 25 years of experience in electronics, focusing on the maintenance and repair of banking machinery, ATMs, and recyclers. My career spans both the banking and retail sectors, where I've gained solid expertise in diagnosing and repairing PCBs, as well as working with complex mechanical systems.
 
 ## Interests
@@ -21,7 +21,7 @@ I'm open to connecting and collaborating. Explore my repositories and let's talk
 
 # ¡Bienvenido a mi perfil de GitHub!
 
-## Sobre mí y Experiencia Profesional
+## Sobre mí
 Soy Francisco, con más de 25 años de experiencia en electrónica, enfocado en el mantenimiento y reparación de maquinaria bancaria, cajeros automáticos y recicladores. Mi carrera abarca tanto el sector bancario como el minorista, donde he adquirido una sólida experiencia en el diagnóstico y reparación de PCB y en el trabajo con sistemas mecánicos complejos.
 
 ## Intereses
