@@ -18,6 +18,8 @@ I'm studying programming at [42 Madrid](https://www.42madrid.com), a free school
 I'm open to connecting and collaborating. Explore my repositories and let's talk!
 
 --------
+--------
+
 
 # ¡Bienvenido a mi perfil de GitHub!
 
