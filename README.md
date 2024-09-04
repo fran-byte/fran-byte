@@ -24,7 +24,7 @@ Outside of work, I have a strong passion for photography. Capturing moments and 
 
 ## Current Pursuits
 
-I am currently expanding my knowledge in programming and technology by studying at [42 Madrid][(https://link-url-here.org](https://www.42madrid.com/)), a cutting-edge coding school that focuses on peer-to-peer learning and project-based education. This journey is helping me to further bridge the gap between my hardware expertise and software development skills.
+I am currently expanding my knowledge in programming and technology by studying at [42 Madrid](https://www.42madrid.com), a cutting-edge coding school that focuses on peer-to-peer learning and project-based education. This journey is helping me to further bridge the gap between my hardware expertise and software development skills.
 
 ## Get in Touch
 
@@ -59,7 +59,7 @@ Fuera del trabajo, tengo una gran pasión por la fotografía. Capturar momentos 
 - **Fotografía:** Como entusiasta, tengo un buen ojo para la composición, la iluminación y la captura de la esencia del momento.
 
 ## Actividades actuales
-Actualmente estoy ampliando mis conocimientos en programación y tecnología estudiando en [42 Madrid][(https://link-url-here.org](https://www.42madrid.com/)), una escuela de codificación de vanguardia que se centra en el aprendizaje entre pares y la educación basada en proyectos. Este viaje me está ayudando a cerrar aún más la brecha entre mi experiencia en hardware y mis habilidades de desarrollo de software.
+Actualmente estoy ampliando mis conocimientos en programación y tecnología estudiando en [42 Madrid](https://www.42madrid.com), una escuela de codificación de vanguardia que se centra en el aprendizaje entre pares y la educación basada en proyectos. Este viaje me está ayudando a cerrar aún más la brecha entre mi experiencia en hardware y mis habilidades de desarrollo de software.
 
 ## Ponte en contacto
 Siempre estoy abierto a conectarme con colegas profesionales y entusiastas en el campo. No dudes en explorar mis repositorios y no dudes en comunicarte conmigo si deseas colaborar o discutir ideas.
