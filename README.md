@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! My name is [Your Name], and I bring over 25 years of experience in the electronics sector, specifically in the maintenance and repair of banking machinery, ATMs, and recyclers. My expertise spans across both the banking and retail industries, where I've developed a deep understanding of PCBs and mechanical systems.
+Hello! My name is Francisco, and I bring over 25 years of experience in the electronics sector, specifically in the maintenance and repair of banking machinery, ATMs, and recyclers. My expertise spans across both the banking and retail industries, where I've developed a deep understanding of PCBs and mechanical systems.
 
 ## Professional Background
 
