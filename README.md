@@ -12,7 +12,7 @@ I'm passionate about photography, a hobby that complements my technical skills a
 - **Photography:** Focus on composition and capturing moments.
 
 ## Currently
-I'm studying programming at [42 Madrid](https://www.42madrid.com), expanding my knowledge in technology and software.
+I'm studying programming at [42 Madrid](https://www.42madrid.com), a free school based on collaborative learning.
 
 ## Get in Touch
 I'm open to connecting and collaborating. Explore my repositories and let's talk!
@@ -33,7 +33,7 @@ Me apasiona la fotografía, un hobby que complementa mis habilidades técnicas y
 - **Fotografía:** Enfoque en la composición y captura de momentos.
 
 ## Actualmente
-Estoy estudiando programación en [42 Madrid](https://www.42madrid.com), ampliando mis conocimientos en tecnología y software.
+Estoy estudiando programación en [42 Madrid](https://www.42madrid.com),una escuela gratuita basada en el aprendizaje colaborativo. 
 
 ## Contacto
 Estoy abierto a conectar y colaborar. ¡Explora mis repositorios y hablemos!
