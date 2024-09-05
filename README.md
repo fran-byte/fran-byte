@@ -18,7 +18,14 @@ I'm studying programming at [42 Madrid](https://www.42madrid.com), a free school
 I'm open to connecting and collaborating. Explore my repositories and let's talk!
 
 --------
-
+  __                      _           _       
+ / _|                    | |         | |      
+| |_ _ __ __ _ _ __      | |__  _   _| |_ ___ 
+|  _| '__/ _` | '_ \     | '_ \| | | | __/ _ \
+| | | | | (_| | | | |    | |_) | |_| | ||  __/
+|_| |_|  \__,_|_| |_|    |_.__/ \__, |\__\___|
+                                 __/ |        
+                                |___/         
 --------
 
 
