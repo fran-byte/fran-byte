@@ -18,14 +18,25 @@ I'm studying programming at [42 Madrid](https://www.42madrid.com), a free school
 I'm open to connecting and collaborating. Explore my repositories and let's talk!
 
 --------
-  __                      _           _       
- / _|                    | |         | |      
-| |_ _ __ __ _ _ __      | |__  _   _| |_ ___ 
-|  _| '__/ _` | '_ \     | '_ \| | | | __/ _ \
-| | | | | (_| | | | |    | |_) | |_| | ||  __/
-|_| |_|  \__,_|_| |_|    |_.__/ \__, |\__\___|
-                                 __/ |        
-                                |___/         
+ .o88o.                                      
+ 888 `"                                      
+o888oo  oooo d8b  .oooo.   ooo. .oo.         
+ 888    `888""8P `P  )88b  `888P"Y88b        
+ 888     888      .oP"888   888   888        
+ 888     888     d8(  888   888   888        
+o888o   d888b    `Y888""8o o888o o888o       
+                                             
+                                             
+                                             
+      .o8                       .            
+     "888                     .o8            
+      888oooo.  oooo    ooo .o888oo  .ooooo. 
+      d88' `88b  `88.  .8'    888   d88' `88b
+      888   888   `88..8'     888   888ooo888
+      888   888    `888'      888 . 888    .o
+      `Y8bod8P'     .8'       "888" `Y8bod8P'
+                .o..P'                       
+                `Y8P'                             
 --------
 
 
