@@ -48,7 +48,7 @@ o888o   d888b    `Y888""8o o888o o888o                `8oooooo.  o888o   "888" o
 Soy Francisco, con más de 25 años de experiencia en el mundo de la electrónica, enfocado en el mantenimiento y reparación de maquinaria bancaria, cajeros automáticos y recicladores. Mi carrera abarca tanto el sector bancario como el minorista, donde he adquirido una sólida experiencia en el diagnóstico y reparación de PCB y en el trabajo con sistemas mecánicos complejos.
 
 ## Intereses
-Me apasiona la fotografía, un hobby que complementa mis habilidades técnicas y mi atención al detalle.
+Me apasiona la fotografía, un hobby que complementa mis habilidades técnicas y mi atención por el detalle.
 
 ## Habilidades
 - **Electrónica:** Diagnóstico y reparación de PCB y sistemas mecánicos.
