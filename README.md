@@ -10,11 +10,14 @@ I'm passionate about photography, a hobby that complements my technical skills a
 - **Electronics:** Diagnosing and repairing PCBs and mechanical systems.
 - **Programming:** Basic knowledge, always eager to learn more.
   I am currently studying programming at  [42 Madrid](https://www.42madrid.com), a free school based on collaborative learning.
-- **Photography:** Focus on composition and capturing moments.
+
 
 ## Goals and Objectives
 Currently, my goal is to deepen my software development skills and contribute to open-source projects.
 I’m focused on improving my programming abilities and collaborating with other developers.
+
+## Hobbies
+I’m passionate about photography, a hobby that complements my technical skills and attention to detail. I enjoy capturing the world through my lens, focusing on composition, lighting, and unique moments that tell a story. Photography allows me to express my creativity and explore different perspectives, enriching my approach to problem-solving and project development.
 
 ## Get in Touch
 I'm open to connecting and collaborating. Explore my repositories and let's talk!
@@ -56,10 +59,15 @@ Me apasiona la fotografía, un hobby que complementa mis habilidades técnicas y
 - **Electrónica:** Diagnóstico y reparación de PCB y sistemas mecánicos.
 - **Programación:** Conocimientos básicos, siempre con ganas de aprender más.
   Actualmente estoy estudiando programación en [42 Madrid](https://www.42madrid.com), una escuela gratuita basada en el aprendizaje colaborativo.
-- **Fotografía:** Enfoque en la composición y captura de momentos.
+
 
 ## Objetivos y Metas
 Actualmente, mi objetivo es profundizar en el desarrollo de software y contribuir a proyectos de código abierto. Estoy enfocado en mejorar mis habilidades en programación y en colaborar con otros desarrolladores. 
+
+## Hobbies
+Me apasiona la fotografía, un hobby que complementa mis habilidades técnicas y mi atención al detalle. Disfruto capturando el mundo a través de mi lente, enfocándome en la composición, la iluminación y los momentos únicos que cuentan una historia. La fotografía me permite expresar mi creatividad y explorar diferentes perspectivas, enriqueciendo mi enfoque hacia la resolución de problemas y el desarrollo de proyectos.
+
+
 
 ## Contacto
 Estoy abierto a conectar y colaborar. ¡Explora mis repositorios y hablemos!
