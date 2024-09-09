@@ -9,10 +9,12 @@ I'm passionate about photography, a hobby that complements my technical skills a
 ## Skills
 - **Electronics:** Diagnosing and repairing PCBs and mechanical systems.
 - **Programming:** Basic knowledge, always eager to learn more.
+  I am currently studying programming at  [42 Madrid](https://www.42madrid.com), a free school based on collaborative learning.
 - **Photography:** Focus on composition and capturing moments.
 
-## Currently
-I'm studying programming at [42 Madrid](https://www.42madrid.com), a free school based on collaborative learning.
+## Goals and Objectives
+Currently, my goal is to deepen my software development skills and contribute to open-source projects.
+I’m focused on improving my programming abilities and collaborating with other developers.
 
 ## Get in Touch
 I'm open to connecting and collaborating. Explore my repositories and let's talk!
@@ -53,10 +55,11 @@ Me apasiona la fotografía, un hobby que complementa mis habilidades técnicas y
 ## Habilidades
 - **Electrónica:** Diagnóstico y reparación de PCB y sistemas mecánicos.
 - **Programación:** Conocimientos básicos, siempre con ganas de aprender más.
+  Actualmente estoy estudiando programación en [42 Madrid](https://www.42madrid.com), una escuela gratuita basada en el aprendizaje colaborativo.
 - **Fotografía:** Enfoque en la composición y captura de momentos.
 
-## Actualmente
-Estoy estudiando programación en [42 Madrid](https://www.42madrid.com), una escuela gratuita basada en el aprendizaje colaborativo. 
+## Objetivos y Metas
+Actualmente, mi objetivo es profundizar en el desarrollo de software y contribuir a proyectos de código abierto. Estoy enfocado en mejorar mis habilidades en programación y en colaborar con otros desarrolladores. 
 
 ## Contacto
 Estoy abierto a conectar y colaborar. ¡Explora mis repositorios y hablemos!
