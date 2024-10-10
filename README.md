@@ -4,7 +4,8 @@
 I'm Francisco, with over 25 years of experience in the electronics field, focusing on the maintenance and repair of banking machinery, ATMs, and recyclers. My career spans both the banking and retail sectors, where I've gained solid expertise in diagnosing and repairing PCBs, as well as working with complex mechanical systems.
 
 ## Interests
-I’m passionate about photography, a hobby that complements my technical skills and attention to detail. I enjoy capturing the world through my lens, focusing on composition, lighting, and unique moments that tell a story. Photography allows me to express my creativity and explore different perspectives, enriching my approach to problem-solving and project development
+I am passionate about photography, a hobby that complements my attention to detail. 
+I enjoy capturing unique moments and exploring different perspectives. This activity enriches my creativity and helps me approach problem-solving and project development from a different angle.
 
 ## Skills
 - **Electronics:** Diagnosing and repairing PCBs and mechanical systems.
@@ -13,8 +14,8 @@ I’m passionate about photography, a hobby that complements my technical skills
 
 
 ## Goals and Objectives
-I am Francisco, with over 25 years of experience in electronics, specializing in the maintenance and repair of banking machinery and ATMs. 
-I have solid experience in PCB diagnostics and complex mechanical systems.
+Currently, my goal is to delve deeper into software development and contribute to open-source projects. 
+I am focused on improving my programming skills and collaborating with other developers.
 
 
 ## Get in Touch
@@ -48,11 +49,12 @@ o888o   d888b    `Y888""8o o888o o888o                `8oooooo.  o888o   "888" o
 # ¡Bienvenido a mi perfil de GitHub!
 
 ## Sobre mí
-Soy Francisco, con más de 25 años de experiencia en electrónica, especializado en el mantenimiento y reparación de maquinaria bancaria y ATM. 
+Soy Francisco, con más de 25 años de experiencia en el sector de la electrónica, especializado en el mantenimiento y reparación de maquinaria bancaria y ATM. 
 Con sólida experiencia en diagnóstico de PCB y sistemas mecánicos complejos.
 
 ## Intereses
-Me apasiona la fotografía, un hobby que complementa mis habilidades técnicas y mi atención en el detalle. Disfruto capturando el mundo a través de mi lente, enfocándome en la composición, la iluminación y los momentos únicos que cuentan una historia. La fotografía me permite expresar mi creatividad y explorar diferentes perspectivas, enriqueciendo mi enfoque hacia la resolución de problemas y el desarrollo de proyectos.
+Me apasiona la fotografía, un hobby que complementa mi atención al detalle. Disfruto capturando momentos únicos y explorando diferentes perspectivas. 
+Esta actividad enriquece mi creatividad y me ayuda a abordar la resolución de problemas y el desarrollo de proyectos desde un ángulo diferente.
 
 ## Habilidades
 - **Electrónica:** Diagnóstico y reparación de PCB y sistemas mecánicos.
