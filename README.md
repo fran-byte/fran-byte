@@ -13,7 +13,7 @@ I’m passionate about photography, a hobby that complements my technical skills
 
 
 ## Goals and Objectives
-I am Francisco, with over 25 years of experience in electronics, specializing in the maintenance and repair of banking machinery and ATMs.
+I am Francisco, with over 25 years of experience in electronics, specializing in the maintenance and repair of banking machinery and ATMs. 
 I have solid experience in PCB diagnostics and complex mechanical systems.
 
 
@@ -48,7 +48,7 @@ o888o   d888b    `Y888""8o o888o o888o                `8oooooo.  o888o   "888" o
 # ¡Bienvenido a mi perfil de GitHub!
 
 ## Sobre mí
-Soy Francisco, con más de 25 años de experiencia en electrónica, especializado en el mantenimiento y reparación de maquinaria bancaria y ATM.
+Soy Francisco, con más de 25 años de experiencia en electrónica, especializado en el mantenimiento y reparación de maquinaria bancaria y ATM. 
 Tengo sólida experiencia en diagnóstico de PCB y sistemas mecánicos complejos.
 
 ## Intereses
