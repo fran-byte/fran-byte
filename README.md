@@ -49,7 +49,7 @@ o888o   d888b    `Y888""8o o888o o888o                `8oooooo.  o888o   "888" o
 
 ## Sobre mí
 Soy Francisco, con más de 25 años de experiencia en electrónica, especializado en el mantenimiento y reparación de maquinaria bancaria y ATM. 
-Tengo sólida experiencia en diagnóstico de PCB y sistemas mecánicos complejos.
+Con sólida experiencia en diagnóstico de PCB y sistemas mecánicos complejos.
 
 ## Intereses
 Me apasiona la fotografía, un hobby que complementa mis habilidades técnicas y mi atención en el detalle. Disfruto capturando el mundo a través de mi lente, enfocándome en la composición, la iluminación y los momentos únicos que cuentan una historia. La fotografía me permite expresar mi creatividad y explorar diferentes perspectivas, enriqueciendo mi enfoque hacia la resolución de problemas y el desarrollo de proyectos.
