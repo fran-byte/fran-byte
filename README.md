@@ -1,6 +1,4 @@
-Claro, aquí tienes tu perfil reducido a la mitad:
 
----
 
 **Welcome to My GitHub Profile!**
 
