@@ -1,26 +1,24 @@
- # Welcome to My GitHub Profile!
+Claro, aquí tienes tu perfil reducido a la mitad:
 
-## About Me
-I am Francisco, with over 25 years of experience in the electronics sector, specializing in the maintenance and repair of banking machinery and ATMs. 
-I have solid experience in PCB diagnostics and complex mechanical systems.
+---
 
-## Interests
-I am passionate about photography, a hobby that complements my attention to detail. 
-I enjoy capturing unique moments and exploring different perspectives. This activity enriches my creativity and helps me approach problem-solving and project development from a different angle.
+**Welcome to My GitHub Profile!**
 
-## Skills
-- **Electronics:** Diagnosing and repairing PCBs and mechanical systems.
-- **Programming:** Basic knowledge, always eager to learn more.
-  I am currently studying programming at  [42 Madrid](https://www.42madrid.com), a free school based on collaborative learning.
+**About Me**  
+I'm Francisco, with 25+ years of experience in electronics, specializing in maintaining and repairing banking machinery and ATMs. Skilled in PCB diagnostics and mechanical systems.  
 
+**Interests**  
+Passionate about photography, which sharpens my attention to detail and creativity.  
 
-## Goals and Objectives
-Currently, my goal is to delve deeper into software development and contribute to open-source projects. 
-I am focused on improving my programming skills and collaborating with other developers.
+**Skills**  
+- Electronics: PCB and mechanical diagnostics/repair.  
+- Programming: Basic knowledge, currently learning at 42 Madrid.  
 
+**Goals**  
+Improving programming skills and contributing to open-source projects.  
 
-## Get in Touch
-I'm open to connecting and collaborating. Explore my repositories and let's talk!
+**Get in Touch**  
+Feel free to explore my repositories and connect!  
 
 --------
 ```
@@ -47,24 +45,24 @@ o888o   d888b    `Y888""8o o888o o888o                `8oooooo.  o888o   "888" o
 --------
 
 
-# ¡Bienvenido a mi perfil de GitHub!
+Claro, aquí tienes la versión en español:  
 
-## Sobre mí
-Soy Francisco, con más de 25 años de experiencia en el sector de la electrónica, especializado en el mantenimiento y reparación de maquinaria bancaria y ATM. 
-Con sólida experiencia en diagnóstico de PCB y sistemas mecánicos complejos.
+---
 
-## Intereses
-Me apasiona la fotografía, un hobby que complementa mi atención al detalle. Disfruto capturando momentos únicos y explorando diferentes perspectivas. 
-Esta actividad enriquece mi creatividad y me ayuda a abordar la resolución de problemas y el desarrollo de proyectos desde un ángulo diferente.
+**¡Bienvenido a mi perfil de GitHub!**
 
-## Habilidades
-- **Electrónica:** Diagnóstico y reparación de PCB y sistemas mecánicos.
-- **Programación:** Conocimientos básicos, siempre con ganas de aprender más.
-  Actualmente estoy estudiando programación en [42 Madrid](https://www.42madrid.com), una escuela gratuita basada en el aprendizaje colaborativo.
+**Sobre mí**  
+Soy Francisco, con más de 25 años de experiencia en el sector de la electrónica, especializado en el mantenimiento y reparación de maquinaria bancaria y cajeros automáticos. Experto en diagnóstico de PCBs y sistemas mecánicos.  
 
-## Objetivos y Metas
-Actualmente, mi objetivo es profundizar en el desarrollo de software y contribuir a proyectos de código abierto. Estoy enfocado en mejorar mis habilidades en programación y en colaborar con otros desarrolladores. 
+**Intereses**  
+Apasionado por la fotografía, una actividad que mejora mi atención al detalle y mi creatividad.  
 
+**Habilidades**  
+- Electrónica: Diagnóstico y reparación de PCBs y sistemas mecánicos.  
+- Programación: Conocimientos básicos, actualmente aprendiendo en 42 Madrid.  
 
-## Contacto
-Estoy abierto a conectar y colaborar. ¡Explora mis repositorios y hablemos!
+**Objetivos**  
+Seguir mejorando mis habilidades en programación y contribuir a proyectos de código abierto.  
+
+**Contáctame**  
+Explora mis repositorios y no dudes en conectar conmigo.  
