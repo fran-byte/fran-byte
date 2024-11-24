@@ -43,10 +43,6 @@ o888o   d888b    `Y888""8o o888o o888o                `8oooooo.  o888o   "888" o
 --------
 
 
-Claro, aquí tienes la versión en español:  
-
----
-
 **¡Bienvenido a mi perfil de GitHub!**
 
 **Sobre mí**  
