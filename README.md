@@ -18,7 +18,7 @@ Improving programming skills and contributing to open-source projects.
 **Get in Touch**  
 Feel free to explore my repositories and connect!  
 
-# Estadísticas de GitHub
+
 
 [![Estadísticas](https://github-readme-stats.vercel.app/api?username=fran-byte&show_icons=true&theme=radical)](https://github.com/fran-byte)
 
