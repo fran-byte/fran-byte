@@ -18,6 +18,9 @@ Improving programming skills and contributing to open-source projects.
 **Get in Touch**  
 Feel free to explore my repositories and connect!  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?fran-byte=fran-byte&show_icons=true)
+
+
 --------
 ```
  .o88o.                                                           o8o      .   oooo                     .o8 
