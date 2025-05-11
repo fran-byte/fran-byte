@@ -18,7 +18,11 @@ Improving programming skills and contributing to open-source projects.
 **Get in Touch**  
 Feel free to explore my repositories and connect!  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?fran-byte=fran-byte&show_icons=true)
+[![Fran-byte's GitHub Stats](https://camo.githubusercontent.com/a3a8670ec9b567f4ce3e0b30b060e0a6822e6e7e3c9d4e1e8d5e3a3a3a3a3a3a3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6672616e2d627974652673686f775f69636f6e733d74727565267468656d653d7261646963616c)](https://github.com/fran-byte)
+
+[![Top Langs](https://camo.githubusercontent.com/a3a8670ec9b567f4ce3e0b30b060e0a6822e6e7e3c9d4e1e8d5e3a3a3a3a3a3a3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6672616e2d62797465267468656d653d7261646963616c)](https://github.com/fran-byte)
+
+[![GitHub Streak](https://camo.githubusercontent.com/a3a8670ec9b567f4ce3e0b30b060e0a6822e6e7e3c9d4e1e8d5e3a3a3a3a3a3a3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6672616e2d62797465267468656d653d7261646963616c)](https://github.com/fran-byte)
 
 
 --------
