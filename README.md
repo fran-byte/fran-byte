@@ -18,7 +18,7 @@ Hi! I'm Francisco, an electronics specialist with 25+ years of hands-on experien
 ## 🚀 Highlighted Projects
 - [`cub3D`](#) – 3D graphics engine using raycasting, built from scratch in C.
 - [`minishell`](#) – A Unix shell implementation with pipes, redirections, and more.
-- [`Learn-Python`](#) – Exercises and notes for mastering Python basics.
+- [`Learn-Python`](https://github.com/fran-byte/learn-python-fundamentals) – Exercises and notes for mastering Python basics.
 - [`infra-orange-pi-nginx`](#) – Configuring a lightweight server on Orange Pi with Armbian and Nginx.
 
 ## 📸 Interests
@@ -55,7 +55,7 @@ Soy Francisco, con más de 25 años de experiencia en electrónica, especializad
 ## 🚀 Proyectos destacados
 - [`cub3D`](#) – Motor 3D con raycasting en C.
 - [`minishell`](#) – Implementación de una shell tipo Unix.
-- [`Learn-Python`](#) – Ejercicios y apuntes de Python básico.
+- [`Learn-Python`](https://github.com/fran-byte/learn-python-fundamentals) – Ejercicios y apuntes de Python básico.
 - [`infra-orange-pi-nginx`](#) – Configuración de servidor Nginx en Orange Pi.
 
 ## 📸 Intereses
