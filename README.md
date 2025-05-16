@@ -31,9 +31,6 @@ Feel free to explore my repositories and connect with me!
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fran-byte&show_icons=true&theme=radical)](https://github.com/fran-byte)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fran-byte&layout=compact&theme=radical)](https://github.com/fran-byte)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fran-byte&theme=radical)](https://github.com/fran-byte)
 
 ---
 
