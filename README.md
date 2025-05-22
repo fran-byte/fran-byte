@@ -8,7 +8,7 @@ Hi! I'm Francisco, an electronics specialist with 25+ years of hands-on experien
 ## 🛠️ Skills
 - **Electronics**: PCB diagnostics, mechanical systems, hardware repair.
 - **Programming**: C, C++, Python – actively learning system-level programming at 42.
-- **Tools**: Git, GDB, Make, Bash, VSCode, Armbian, Nginx.
+- **Tools**: Git, GDB, Make, Bash, VSCode.
 
 ## 🎯 Goals
 - Deepen my understanding of computer science fundamentals.
@@ -42,7 +42,7 @@ Soy Francisco, con más de 25 años de experiencia en electrónica, especializad
 ## 🛠️ Habilidades
 - **Electrónica**: Diagnóstico y reparación de PCBs y sistemas mecánicos.
 - **Programación**: C, C++, Python – aprendiendo desarrollo de bajo nivel en 42.
-- **Herramientas**: Git, GDB, Make, Bash, VSCode, Armbian, Nginx.
+- **Herramientas**: Git, GDB, Make, Bash, VSCode.
 
 ## 🎯 Objetivos
 - Profundizar en fundamentos de la informática.
