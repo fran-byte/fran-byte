@@ -23,8 +23,8 @@ I'm a Senior Electronics Technician with 25+ years of experience repairing and m
 
 - [`cub3D`](#) – Implemented a 3D graphics engine using raycasting in C, learning about graphics algorithms and memory management.
 - [`minishell`](https://github.com/fran-byte/42-minishell) – Unix shell implementation supporting pipes, redirections, and built-in commands.
-- [`Learn-Python`](https://github.com/fran-byte/learn-python-fundamentals) – Exercises and notes to master Python fundamentals.
-- [`infra-orange-pi-nginx`](#) – Lightweight server setup on Orange Pi with Armbian and Nginx, focusing on network and system configuration.
+- [`MagSenseUI`](https://github.com/fran-byte/MagSenseUI) – Diagnostic Interface for Magnetic Sensor Calibration in Electromechanical Systems.
+- [`reaction-time`](https://github.com/fran-byte/reaction-time/blob/main/README_en.md) – Measurement of R.T. in starting blocks.
 
 ## 🎯 Goals
 - Master computer science fundamentals.
