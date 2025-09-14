@@ -27,7 +27,6 @@ I'm a Senior Electronics Technician with 25+ years of experience repairing and m
 ## 🚀 Highlighted Projects
 
 - [`cub3D`](#) – Implemented a 3D graphics engine using raycasting in C, learning about graphics algorithms and memory management.  
-  **Required graphics library:** [minilibx-linux](https://github.com/42paris/minilibx-linux)
 
 - [`minishell`](https://github.com/fran-byte/42-minishell) – Unix shell implementation supporting pipes, redirections, and built-in commands.
 
