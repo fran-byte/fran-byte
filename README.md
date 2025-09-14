@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Francisco
 
-
 I'm a Senior Electronics Technician with 25+ years of experience repairing and maintaining banking and retail machinery, especially cash processing systems. Currently, I'm diving into software development through [42 Madrid](https://42madrid.com/), aiming to combine my hardware expertise with programming skills to build innovative solutions.
 
 ---
@@ -20,31 +19,16 @@ I'm a Senior Electronics Technician with 25+ years of experience repairing and m
 
 | Project | Description | Link |
 |---------|-------------|------|
-| cub3D | 3D graphics engine using raycasting in C. Learned graphics algorithms and memory management. | [Repo](#) |
+| cub3D | 3D graphics engine using raycasting in C. Learned graphics algorithms and memory management.<br>**Required library:** [minilibx-linux](https://github.com/42paris/minilibx-linux) | [Repo](#) |
 | minishell | Unix shell implementation with pipes, redirections, and built-in commands. | [Repo](https://github.com/fran-byte/42-minishell) |
 | MagSenseUI | Diagnostic interface for magnetic sensor calibration in electromechanical systems. | [Repo](https://github.com/fran-byte/MagSenseUI) |
 | reaction-time | Measurement of reaction time in starting blocks. | [Repo](https://github.com/fran-byte/reaction-time/blob/main/README_en.md) |
 
 ---
 
-## 🎯 Goals
-
-- Master computer science fundamentals  
-- Develop projects bridging hardware and software (embedded systems, automation)  
-- Contribute to open-source initiatives combining electronics and programming
-
----
-
-## 📸 Interests
-
-Photography fuels my creativity and sharpens my attention to detail – skills that translate directly into electronics repair and coding.
-
----
-
 ## 📬 Connect with Me
 
 - [GitHub](https://github.com/fran-byte)  
-
 
 ---
 
