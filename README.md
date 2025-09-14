@@ -17,8 +17,8 @@ Hi! I'm Francisco, a senior electronics technician with 25+ years of experience 
 ## 🚀 Highlighted Projects
 - [`cub3D`](#) – 3D graphics engine using raycasting, built from scratch in C.
 - [`minishell`](https://github.com/fran-byte/42-minishell) – A Unix shell implementation supporting pipes, redirections, and more.
-- [`Learn-Python`](https://github.com/fran-byte/learn-python-fundamentals) – Python exercises and notes for mastering fundamentals.
-- [`infra-orange-pi-nginx`](#) – Configuring a lightweight server on Orange Pi with Armbian and Nginx.
+- [`MagSenseUI`](https://github.com/fran-byte/MagSenseUI)) – Diagnostic Interface for Magnetic Sensor Calibration in Electromechanical Systems.
+- [`reaction-time`](https://github.com/fran-byte/reaction-time/blob/main/README_en.md) – Measurement of R.T. in starting blocks.
 
 ## 📸 Interests
 Photography fuels my creativity and sharpens my attention to detail – skills that translate directly into electronics repair and coding.
