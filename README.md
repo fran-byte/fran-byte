@@ -1,29 +1,43 @@
-
-# 👋 Welcome to My GitHub Profile!
+# 👋 Hi, I'm Francisco
 
 ## About Me
-Hi! I'm Francisco, a senior electronics technician with 25+ years of experience repairing and maintaining banking and retail machinery, particularly cash processing systems. I'm currently expanding my expertise into software development through the rigorous program at [42 Madrid](https://42madrid.com/), combining my hardware knowledge with programming skills.
+I'm a Senior Electronics Technician with 25+ years of experience repairing and maintaining banking and retail machinery, especially cash processing systems. Currently, I'm diving into software development through [42 Madrid](https://42madrid.com/), aiming to combine my hardware expertise with programming skills to build innovative solutions.
 
-## 🛠️ Skills
-- **Electronics**: PCB diagnostics, mechanical systems, ATM and retail machinery repair.
-- **Programming**: C, C++, Python – currently focusing on system-level programming and software-hardware integration.
-- **Tools**: Git, GDB, Make, Bash, VSCode.
+## 🛠️ Technologies & Skills
 
-## 🎯 Goals
-- Deepen my understanding of computer science fundamentals.
-- Build and contribute to open-source projects.
-- Leverage my hardware experience to develop innovative software solutions.
+**Development & Systems**
+- Linux, Git, Bash, Make, VSCode
+- System-level programming and hardware integration
+
+**Programming Languages**
+- C, C++, Python
+
+**Electronics & Hardware**
+- PCB diagnostics, mechanical systems
+- ATM and retail machinery repair
+
+**Other Tools**
+- Debugging tools, hardware testing equipment, documentation
 
 ## 🚀 Highlighted Projects
-- [`cub3D`](#) – 3D graphics engine using raycasting, built from scratch in C.
-- [`minishell`](https://github.com/fran-byte/42-minishell) – A Unix shell implementation supporting pipes, redirections, and more.
-- [`MagSenseUI`](https://github.com/fran-byte/MagSenseUI) – Diagnostic Interface for Magnetic Sensor Calibration in Electromechanical Systems.
-- [`reaction-time`](https://github.com/fran-byte/reaction-time/blob/main/README_en.md) – Measurement of R.T. in starting blocks.
+
+- [`cub3D`](#) – Implemented a 3D graphics engine using raycasting in C, learning about graphics algorithms and memory management.
+- [`minishell`](https://github.com/fran-byte/42-minishell) – Unix shell implementation supporting pipes, redirections, and built-in commands.
+- [`Learn-Python`](https://github.com/fran-byte/learn-python-fundamentals) – Exercises and notes to master Python fundamentals.
+- [`infra-orange-pi-nginx`](#) – Lightweight server setup on Orange Pi with Armbian and Nginx, focusing on network and system configuration.
+
+## 🎯 Goals
+- Master computer science fundamentals.
+- Develop projects bridging hardware and software.
+- Contribute to open-source initiatives in electronics and programming.
 
 ## 📸 Interests
 Photography fuels my creativity and sharpens my attention to detail – skills that translate directly into electronics repair and coding.
 
-## 📬 Get in Touch
-Explore my repositories, follow my projects, and connect with me!
+## 📬 Connect with Me
+- [GitHub](https://github.com/fran-byte)
 
 
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fran-byte&show_icons=true&theme=radical)](https://github.com/fran-byte)
