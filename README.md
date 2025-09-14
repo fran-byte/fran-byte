@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Francisco
 
-I'm a Senior Electronics Technician with 25+ years of experience repairing and maintaining banking and retail machinery, especially cash processing systems. Currently, I'm diving into software development through [42 Madrid](https://42madrid.com/), aiming to combine my hardware expertise with programming skills to build innovative solutions.
+I'm a Senior Electronics Technician with 25+ years of experience in PCB diagnostics and banking machinery repair.  
+Currently training in software development at [42 Madrid](https://42madrid.com/), combining hardware expertise with programming skills to build innovative solutions.
+
 
 ---
 
