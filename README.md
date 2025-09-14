@@ -31,33 +31,3 @@ Feel free to explore my repositories and connect with me!
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fran-byte&show_icons=true&theme=radical)](https://github.com/fran-byte)
 
-
----
-
-# 👋 ¡Bienvenido a mi perfil de GitHub!
-
-## Sobre mí
-Soy Francisco, con más de 25 años de experiencia en electrónica, especializado en diagnóstico de PCBs y reparación de maquinaria bancaria. Actualmente me estoy formando en programación en [42 Madrid](https://42madrid.com/), una escuela intensiva y práctica de informática.
-
-## 🛠️ Habilidades
-- **Electrónica**: Diagnóstico y reparación de PCBs y sistemas mecánicos.
-- **Programación**: C, C++, Python – aprendiendo desarrollo de bajo nivel en 42.
-- **Herramientas**: Git, GDB, Make, Bash, VSCode.
-
-## 🎯 Objetivos
-- Profundizar en fundamentos de la informática.
-- Contribuir a proyectos de código abierto.
-- Unir mi experiencia en hardware con el desarrollo de software.
-
-## 🚀 Proyectos destacados
-- [`cub3D`](#) – Motor 3D con raycasting en C.
-- [`minishell`](https://github.com/fran-byte/42-minishell) – Implementación de una shell tipo Unix.
-- [`Learn-Python`](https://github.com/fran-byte/learn-python-fundamentals) – Ejercicios y apuntes de Python básico.
-- [`infra-orange-pi-nginx`](#) – Configuración de servidor Nginx en Orange Pi.
-
-## 📸 Intereses
-Apasionado por la fotografía, una actividad que mejora mi atención al detalle y creatividad.
-
-## 📬 Contáctame
-Explora mis repositorios y no dudes en conectar conmigo.
-
