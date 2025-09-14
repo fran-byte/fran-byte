@@ -28,10 +28,4 @@ Currently training in software development at [42 Madrid](https://42madrid.com/)
 
 ---
 
-## 📬 Connect with Me
-
-- [GitHub](https://github.com/fran-byte)  
-
----
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fran-byte&show_icons=true&theme=radical)](https://github.com/fran-byte)
