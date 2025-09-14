@@ -7,56 +7,31 @@ I'm a Senior Electronics Technician with 25+ years of experience repairing and m
 
 ## 🛠️ Technologies & Skills
 
-**Development & Systems**
-- Linux, Git, Bash, Make, VSCode
-- System-level programming and hardware integration
-
-**Programming Languages**
-- C, C++, Python
-
-**Electronics & Hardware**
-- PCB diagnostics, mechanical systems
-- ATM and retail machinery repair
-- Embedded systems: Arduino, Raspberry Pi, microcontrollers
-
-**Other Tools**
-- Debugging tools, hardware testing equipment, documentation
+| Category | Skills |
+|----------|--------|
+| **Development & Systems** | Linux, Git, Bash, Make, VSCode, System-level programming & hardware integration |
+| **Programming Languages** | C, C++, Python |
+| **Electronics & Hardware** | PCB diagnostics, Mechanical systems, ATM and retail machinery repair, Embedded systems (Arduino, Raspberry Pi) |
+| **Other Tools** | Debugging tools, Hardware testing equipment, Documentation |
 
 ---
 
 ## 🚀 Highlighted Projects
 
-- [`cub3D`](#) – Implemented a 3D graphics engine using raycasting in C, learning about graphics algorithms and memory management.  
-
-- [`minishell`](https://github.com/fran-byte/42-minishell) – Unix shell implementation supporting pipes, redirections, and built-in commands.
-
-- [`MagSenseUI`](https://github.com/fran-byte/MagSenseUI) – Diagnostic interface for magnetic sensor calibration in electromechanical systems.
-
-- [`reaction-time`](https://github.com/fran-byte/reaction-time/blob/main/README_en.md) – Measurement of reaction time in starting blocks.
-
----
-
-## 🔌 Electronics Projects
-
-- **ATM Maintenance Documentation** – Step-by-step guides and troubleshooting techniques for banking machines.  
-- **PCB Diagnostics Tools** – Scripts and workflows developed to test and analyze PCBs efficiently.  
-- **Embedded Systems Experiments** – Small projects with Arduino and Raspberry Pi integrating sensors and actuators.
-
----
-
-## 📚 Learning & Notes
-
-- Python fundamentals and exercises ([Learn-Python](https://github.com/fran-byte/learn-python-fundamentals))  
-- 42 Madrid Cursus projects: cub3D, minishell, and more  
-- System-level programming concepts: memory management, file I/O, process control
+| Project | Description | Link |
+|---------|-------------|------|
+| cub3D | 3D graphics engine using raycasting in C. Learned graphics algorithms and memory management. | [Repo](#) |
+| minishell | Unix shell implementation with pipes, redirections, and built-in commands. | [Repo](https://github.com/fran-byte/42-minishell) |
+| MagSenseUI | Diagnostic interface for magnetic sensor calibration in electromechanical systems. | [Repo](https://github.com/fran-byte/MagSenseUI) |
+| reaction-time | Measurement of reaction time in starting blocks. | [Repo](https://github.com/fran-byte/reaction-time/blob/main/README_en.md) |
 
 ---
 
 ## 🎯 Goals
 
 - Master computer science fundamentals  
-- Develop projects bridging hardware and software, such as embedded systems and automation  
-- Contribute to open-source initiatives that combine electronics and programming
+- Develop projects bridging hardware and software (embedded systems, automation)  
+- Contribute to open-source initiatives combining electronics and programming
 
 ---
 
@@ -69,6 +44,7 @@ Photography fuels my creativity and sharpens my attention to detail – skills t
 ## 📬 Connect with Me
 
 - [GitHub](https://github.com/fran-byte)  
+
 
 ---
 
