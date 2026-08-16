@@ -111,12 +111,12 @@ Today, I'm combining this hardware expertise with **software development skills*
 | Project | Description | Status |
 |---------|-------------|--------|
 | [transcender](https://github.com/fran-byte/42-ft-Transcender) | real-time multiplayer blackjack platform | ✅ Complete |
-| [libft](https://github.com/fran-byte/libft) | Custom C library | ✅ Complete |
+| [libft](https://github.com/fran-byte/42-libft) | Custom C library | ✅ Complete |
 | [minishell](https://github.com/fran-byte/42-minishell) | Unix shell implementation | ✅ Complete |
 | [cub3D](https://github.com/fran-byte/cub3d) | 3D raycasting engine | ✅ Complete |
-| [push_swap](https://github.com/fran-byte/push_swap) | Sorting algorithm | ✅ Complete |
-| [so_long](https://github.com/fran-byte/so_long) | 2D game with minilibx | ✅ Complete |
-| [pipex](https://github.com/fran-byte/pipex) | Unix pipelines | ✅ Complete |
+| [push_swap](https://github.com/fran-byte/42-push_swap) | Sorting algorithm | ✅ Complete |
+| [so_long](https://github.com/fran-byte/42-so_long) | 2D game with minilibx | ✅ Complete |
+| [pipex](https://github.com/fran-byte/42-pipex) | Unix pipelines | ✅ Complete |
 
 ---
 
