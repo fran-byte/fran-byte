@@ -113,7 +113,7 @@ Today, I'm combining this hardware expertise with **software development skills*
 |---------|-------------|--------|
 | [libft](https://github.com/fran-byte/libft) | Custom C library | ✅ Complete |
 | [minishell](https://github.com/fran-byte/42-minishell) | Unix shell implementation | ✅ Complete |
-| [cub3D](https://github.com/fran-byte/cub3d) | 3D raycasting engine | 🚧 In Progress |
+| [cub3D](https://github.com/fran-byte/cub3d) | 3D raycasting engine | ✅ Complete |
 | [push_swap](https://github.com/fran-byte/push_swap) | Sorting algorithm | ✅ Complete |
 | [so_long](https://github.com/fran-byte/so_long) | 2D game with minilibx | ✅ Complete |
 | [pipex](https://github.com/fran-byte/pipex) | Unix pipelines | ✅ Complete |
