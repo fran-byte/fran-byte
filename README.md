@@ -109,8 +109,9 @@ Today, I'm combining this hardware expertise with **software development skills*
 
 ## 🏆 42 Madrid — Common Core
 
-| Project | Description | Status |
+| Project | Description | Status | https://github.com/fran-byte/42-ft-Transcender
 |---------|-------------|--------|
+| [transcender](https://github.com/fran-byte/42-ft-Transcender) | real-time multiplayer blackjack platform | ✅ Complete |
 | [libft](https://github.com/fran-byte/libft) | Custom C library | ✅ Complete |
 | [minishell](https://github.com/fran-byte/42-minishell) | Unix shell implementation | ✅ Complete |
 | [cub3D](https://github.com/fran-byte/cub3d) | 3D raycasting engine | ✅ Complete |
