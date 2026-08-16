@@ -74,7 +74,7 @@ Today, I'm combining this hardware expertise with **software development skills*
 
 ---
 
-### 🎮 [cub3D](https://github.com/fran-byte/cub3d)
+### 🎮 [cub3D](https://github.com/fran-byte/42-cub3d)
 > **3D Graphics Engine with Raycasting**
 - Wolfenstein-style 3D rendering engine
 - Texture mapping and sprite management
@@ -114,7 +114,7 @@ Today, I'm combining this hardware expertise with **software development skills*
 | [transcender](https://github.com/fran-byte/42-ft-Transcender) | real-time multiplayer blackjack platform | ✅ Complete |
 | [libft](https://github.com/fran-byte/42-libft) | Custom C library | ✅ Complete |
 | [minishell](https://github.com/fran-byte/42-minishell) | Unix shell implementation | ✅ Complete |
-| [cub3D](https://github.com/fran-byte/cub3d) | 3D raycasting engine | ✅ Complete |
+| [cub3D](https://github.com/fran-byte/42-cub3d) | 3D raycasting engine | ✅ Complete |
 | [push_swap](https://github.com/fran-byte/42-push_swap) | Sorting algorithm | ✅ Complete |
 | [so_long](https://github.com/fran-byte/42-so_long) | 2D game with minilibx | ✅ Complete |
 | [pipex](https://github.com/fran-byte/42-pipex) | Unix pipelines | ✅ Complete |
