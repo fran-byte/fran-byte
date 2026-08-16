@@ -1,31 +1,136 @@
 # 👋 Hi, I'm Francisco
 
-I'm a Senior Electronics Technician with 25+ years of experience in PCB diagnostics and banking machinery repair.  
-Currently training in software development at [42 Madrid](https://42madrid.com/), combining hardware expertise with programming skills to build innovative solutions.
-
-
----
-
-## 🛠️ Technologies & Skills
-
-| Category | Skills |
-|----------|--------|
-| **Development & Systems** | Linux, Git, Bash, Make, VSCode, System-level programming & hardware integration |
-| **Programming Languages** | C, C++, Python |
-| **Electronics & Hardware** | PCB diagnostics, Mechanical systems, ATM and retail machinery repair, Embedded systems (Arduino, Raspberry Pi) |
-| **Other Tools** | Debugging tools, Hardware testing equipment, Documentation |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-jesus-romero-caceres)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco.jesus.romero.caceres@hotmail.com)
+[![42 Madrid](https://img.shields.io/badge/42_Madrid-000000?style=for-the-badge&logo=42&logoColor=white)](https://42madrid.com/)
 
 ---
 
-## 🚀 Highlighted Projects
+## 🔧 Electronics Engineer → Software Developer
 
-| Project | Description | Link |
-|---------|-------------|------|
-| cub3D | 3D graphics engine using raycasting in C. Learned graphics algorithms and memory management.<br>**Required library:** [minilibx-linux](https://github.com/42paris/minilibx-linux) | [Repo](#) |
-| minishell | Unix shell implementation with pipes, redirections, and built-in commands. | [Repo](https://github.com/fran-byte/42-minishell) |
-| MagSenseUI | Diagnostic interface for magnetic sensor calibration in electromechanical systems. | [Repo](https://github.com/fran-byte/MagSenseUI) |
-| reaction-time | Measurement of reaction time in starting blocks. | [Repo](https://github.com/fran-byte/reaction-time/blob/main/README_en.md) |
+> **25+ years** diagnosing and repairing complex electronic systems.  
+> Currently training in **software development** at [42 Madrid](https://42madrid.com/).  
+> Bridging the gap between **hardware** and **software** to build innovative solutions.
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fran-byte&show_icons=true&theme=radical)](https://github.com/fran-byte)
+## 🎯 About Me
+
+With over two decades of experience as a **Senior Electronics Technician**, I've developed a deep understanding of:
+
+- 🔬 **PCB diagnostics** at component level
+- ⚡ **Power supplies** and analog/digital circuits
+- 🏦 **Complex electromechanical systems** (ATMs, cash recyclers)
+- 📡 **Embedded systems** and industrial communication protocols
+
+Today, I'm combining this hardware expertise with **software development skills** acquired through the rigorous peer-to-peer methodology at **42 Madrid** — one of the world's most innovative programming schools.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Development
+| Language/Tool | Experience |
+|---------------|------------|
+| **C** | Advanced (42 Madrid projects) |
+| **C++** | Intermediate |
+| **Python** | Intermediate (learning) |
+| **Bash/Shell** | Advanced |
+| **Git** | Advanced |
+| **Linux/Unix** | Advanced |
+| **Make** | Advanced |
+| **VSCode** | Advanced |
+
+### 🔌 Electronics & Hardware
+| Area | Expertise |
+|------|-----------|
+| **PCB Diagnostics** | Component-level repair |
+| **Analog/Digital Circuits** | Design & troubleshooting |
+| **Power Supplies** | Repair & validation |
+| **Embedded Systems** | Arduino, ESP8266, sensors |
+| **Industrial Protocols** | I2C, SPI, UART |
+| **Hardware Testing** | Oscilloscopes, multimeters, logic analyzers |
+
+---
+
+## 🚀 Featured Projects
+
+### 🏃 [Reaction Time System](https://github.com/fran-byte/reaction-time)
+> **Measurement of Reaction Time in Starting Blocks**
+- ESP8266-based device with ADXL345 accelerometer
+- WiFi interface for real-time data visualization
+- Used for athletics training optimization
+- **Tech:** C++, Arduino, ESP8266, I2C, Web Server
+
+---
+
+### 🐚 [minishell](https://github.com/fran-byte/42-minishell)
+> **Custom Unix Shell Implementation**
+- Built from scratch in C
+- Support for pipes, redirections, environment variables
+- Command history and signal handling
+- **Tech:** C, POSIX, Linux system calls
+
+---
+
+### 🎮 [cub3D](https://github.com/fran-byte/cub3d)
+> **3D Graphics Engine with Raycasting**
+- Wolfenstein-style 3D rendering engine
+- Texture mapping and sprite management
+- Minimalist graphics library (minilibx)
+- **Tech:** C, Raycasting, Graphics Programming
+
+---
+
+### 🧲 [MagSenseUI](https://github.com/fran-byte/MagSenseUI)
+> **Diagnostic Interface for Magnetic Sensors**
+- Graphical interface for sensor calibration
+- Real-time data visualization
+- **Tech:** Python, PyQt, Serial Communication
+
+---
+
+### 📚 [libft](https://github.com/fran-byte/libft)
+> **Custom C Standard Library**
+- Reimplementation of standard C functions
+- Additional utility functions for string manipulation, memory management, and linked lists
+- **Tech:** C, Make, Unit Testing
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fran-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fran-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+</div>
+
+---
+
+## 🏆 42 Madrid — Common Core
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [libft](https://github.com/fran-byte/libft) | Custom C library | ✅ Complete |
+| [minishell](https://github.com/fran-byte/42-minishell) | Unix shell implementation | ✅ Complete |
+| [cub3D](https://github.com/fran-byte/cub3d) | 3D raycasting engine | 🚧 In Progress |
+| [push_swap](https://github.com/fran-byte/push_swap) | Sorting algorithm | ✅ Complete |
+| [so_long](https://github.com/fran-byte/so_long) | 2D game with minilibx | ✅ Complete |
+| [pipex](https://github.com/fran-byte/pipex) | Unix pipelines | ✅ Complete |
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-jesus-romero-caceres)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco.jesus.romero.caceres@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fran-byte)
+
+---
+
+> *"From hardware to software — bridging the gap between electronics and code."*
+
+---
+
+⭐ **If you find my work interesting, feel free to star a repo or connect with me!**
+
