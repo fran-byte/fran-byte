@@ -101,7 +101,6 @@ Today, I'm combining this hardware expertise with **software development skills*
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fran-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fran-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </div>
 
