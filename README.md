@@ -34,10 +34,11 @@ Today, I'm combining this hardware expertise with **software development skills*
 |---------------|------------|
 | **C** | Advanced (42 Madrid projects) |
 | **C++** | Intermediate |
-| **Python** | Intermediate (learning) |
+| **Python** | Intermediate |
 | **Bash/Shell** | Advanced |
 | **Git** | Advanced |
 | **Linux/Unix** | Advanced |
+| **Docker** | Intermediate |
 | **Make** | Advanced |
 | **VSCode** | Advanced |
 
