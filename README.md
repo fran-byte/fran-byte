@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Francisco
+# 👋 Hi, I'm Francisco - Senior Electronics Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-jesus-romero-caceres)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco.jesus.romero.caceres@hotmail.com)
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Electronics Engineer → Software Developer
+## 🔧 Senior Electronics Engineer → Software Developer
 
 > **25+ years** diagnosing and repairing complex electronic systems.  
 > Currently training in **software development** at [42 Madrid](https://42madrid.com/).  
