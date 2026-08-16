@@ -90,7 +90,7 @@ Today, I'm combining this hardware expertise with **software development skills*
 
 ---
 
-### 📚 [libft](https://github.com/fran-byte/libft)
+### 📚 [libft](https://github.com/fran-byte/42-libft)
 > **Custom C Standard Library**
 - Reimplementation of standard C functions
 - Additional utility functions for string manipulation, memory management, and linked lists
