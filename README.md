@@ -47,7 +47,7 @@ Today, I'm combining this hardware expertise with **software development skills*
 | **PCB Diagnostics** | Component-level repair |
 | **Analog/Digital Circuits** | Design & troubleshooting |
 | **Power Supplies** | Repair & validation |
-| **Embedded Systems** | Arduino, ESP8266, sensors |
+| **Embedded Systems** | Arduino, sensors-...,  |
 | **Industrial Protocols** | I2C, SPI, UART |
 | **Hardware Testing** | Oscilloscopes, multimeters, logic analyzers |
 
