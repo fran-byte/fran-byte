@@ -23,7 +23,7 @@ With over two decades of experience as a **Senior Electronics Technician**, I've
 - 🏦 **Complex electromechanical systems** (ATMs, cash recyclers)
 - 📡 **Embedded systems** and industrial communication protocols
 
-Today, I'm combining this hardware expertise with **software development skills** acquired through the rigorous peer-to-peer methodology at **42 Madrid** — one of the world's most innovative programming schools.
+Today, I'm combining this hardware expertise with **software development skills** acquired through the rigorous peer-to-peer methodology at **42 Madrid**; one of the world's most innovative programming schools.
 
 ---
 
@@ -105,7 +105,7 @@ Today, I'm combining this hardware expertise with **software development skills*
 
 ---
 
-## 🏆 42 Madrid — Common Core
+## 🏆 42 Madrid; Common Core
 
 | Project | Description | Status |
 |---------|-------------|--------|
@@ -127,7 +127,7 @@ Today, I'm combining this hardware expertise with **software development skills*
 
 ---
 
-> *"From hardware to software — bridging the gap between electronics and code."*
+> *"From hardware to software; bridging the gap between electronics and code."*
 
 ---
 
