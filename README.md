@@ -30,17 +30,9 @@ Today, I'm combining this hardware expertise with **software development skills*
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash&perline=4)
-
-### 🛠️ Tools & Frameworks
-![My Skills](https://skillicons.dev/icons?i=linux,git,docker,cmake,vscode&perline=5)
-
-### 🔌 Hardware & Protocols
-![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2)
-
-### ⚙️ Additional Skills
-![My Skills](https://skillicons.dev/icons?i=github,nginx,cloudflare&perline=3)
+| Languages | Tools & Frameworks | Hardware & Protocols |
+|-----------|-------------------|----------------------|
+| ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash&perline=4) | ![My Skills](https://skillicons.dev/icons?i=linux,git,docker,cmake,vscode,github,nginx,cloudflare&perline=4) | ![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2) |
 
 ---
 
@@ -124,4 +116,3 @@ Today, I'm combining this hardware expertise with **software development skills*
 ---
 
 ⭐ **If you find my work interesting, feel free to star a repo or connect with me!**
-
