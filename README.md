@@ -34,6 +34,7 @@ Today, I'm combining this hardware expertise with **software development skills*
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![ASM](https://img.shields.io/badge/ASM-6E4C13?style=for-the-badge&logo=assembly&logoColor=white)
 
 ### 🛠️ Tools & Frameworks
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -132,8 +133,3 @@ Today, I'm combining this hardware expertise with **software development skills*
 ---
 
 ⭐ **If you find my work interesting, feel free to star a repo or connect with me!**
-
-
----
-
-**¿Quieres que ajuste algún color o badge específico?** 🚀
