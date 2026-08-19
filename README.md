@@ -61,11 +61,6 @@ My goal is to bridge the gap between **electronics and software**, creating reli
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
 
-**Microcontrollers & Embedded Systems**
-
-![ESP8266](https://img.shields.io/badge/ESP8266-Embedded-555555?style=for-the-badge&logo=espressif&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded-C-555555?style=for-the-badge)
-
 ---
 
 ### 📡 Protocols & Interfaces
@@ -73,10 +68,7 @@ My goal is to bridge the gap between **electronics and software**, creating reli
 ![I2C](https://img.shields.io/badge/I²C-Protocol-555555?style=for-the-badge)
 ![UART](https://img.shields.io/badge/UART-Serial-555555?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-Protocol-555555?style=for-the-badge)
-![CAN](https://img.shields.io/badge/CAN-Bus-555555?style=for-the-badge)
 ![RS232](https://img.shields.io/badge/RS--232-Serial-555555?style=for-the-badge)
-![RS485](https://img.shields.io/badge/RS--485-Industrial-555555?style=for-the-badge)
-![Modbus](https://img.shields.io/badge/Modbus-Industrial-555555?style=for-the-badge)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-555555?style=for-the-badge)
 ![WiFi](https://img.shields.io/badge/Wi--Fi-IoT-555555?style=for-the-badge)
 
